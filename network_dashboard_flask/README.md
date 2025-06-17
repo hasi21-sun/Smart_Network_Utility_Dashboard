@@ -112,7 +112,12 @@ Output:
 
 - Uday Kiran  
 - Team: S. Hasika,  R. Sidhartha Chowdary, N. Chaitanya 
-- 💡 Guided by: Sahana DS
+- 💡 Guided by: Mrs. Sahana D S
+                Assistant Professor
+                Department of CSE
+                GITAM School of Technology 
+                GITAM( Deemed to be University) 
+                Bengaluru
 
 ---
 
