@@ -21,8 +21,6 @@ A powerful and beginner-friendly **Flask-based web application** for performing 
 
 Built with a modern, responsive HTML UI using inline CSS. Interact through your web browser.
 
-![screenshot](https://via.placeholder.com/600x300?text=Smart+Network+Utility+Dashboard)
-
 ---
 
 ## 📂 Project Structure
